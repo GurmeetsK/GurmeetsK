@@ -20,7 +20,7 @@ you're going to learn with me too!
 
 ## What more?
 
-I've 
++I've 
 +edited a published screenplay
 +written a few blog posts
 +and made some movies. 
