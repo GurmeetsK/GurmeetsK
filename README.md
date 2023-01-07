@@ -14,10 +14,10 @@ You're going to learn with me too!
 
 ## What's next?
 
-**1.A beginning of the exploration of the art that is Python. 
-The artist for my first project? #The Beatles.
+**1.A beginning of the exploration of the art that is Python. **
+The artist for my first project? #The Beatles.**
 
-**2. I'll be starting a blog that combines the world of Data Analysis and Art.
+**2. I'll be starting a blog that combines the world of Data Analysis and Art.**
 
 <!--
 **GurmeetsK/GurmeetsK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
