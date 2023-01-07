@@ -20,10 +20,10 @@ you're going to learn with me too!
 
 ## What more?
 
-* I've 
-* edited a published screenplay
-* written a few blog posts
-* and made some movies. 
+ I've 
+* Edited a published screenplay
+* Written a few blog posts
+* And made some movies. 
 
 This list, like the one above, will also be constantly updated ⏩
 
