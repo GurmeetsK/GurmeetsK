@@ -1,7 +1,7 @@
 
 ### DataPoints create a story like pixels create a picture. :thought_balloon:
 
-I am Gurmeet Kapoor! I am a writer :books: who's bitten the data analysis bug. :computer: :chart_with_upwards_trend:
+I am Gurmeet Kapoor, a writer :books: who's bitten the data analysis bug. :computer: :chart_with_upwards_trend:
 
 You're going to find tons of interesting projects to see on my portfolio and if you are new to the wonderful world of data,
 you're going to learn with me too!
