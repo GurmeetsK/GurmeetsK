@@ -14,9 +14,9 @@ you're going to learn with me too!
 
 ## What's next?
 
-*  The exploration of the fascinating language that is Python. The artist for my first project? The Beatles.**
+*  The exploration of the fascinating language that is Python. The artist for my first project? The Beatles.
 
-*  I'll be starting a blog that combines the world of Data Analysis and Art.**
+*  I'll be starting a blog that combines the world of Data Analysis and Art.
 
 ## What more?
 
