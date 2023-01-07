@@ -18,6 +18,15 @@ you're going to learn with me too!
 
 **2. I'll be starting a blog that combines the world of Data Analysis and Art.**
 
+## What more?
+
+I've 
++edited a published screenplay
++written a few blog posts
++and made some movies. 
+
+This list, like the one above, will also be constantly updated ⏩
+
 <!--
 **GurmeetsK/GurmeetsK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
