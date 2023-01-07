@@ -8,15 +8,15 @@ you're going to learn with me too!
 
 ## Currently, the projects you can see on my Github are (***All Using SQL***):
 
-* 1. [An Analysis on Faculty Salaries at the University of Vermont.](https://github.com/GurmeetsK/University-of-Vermont-Salary-Analysis)
-* 2. [An Analysis on Bus Delay in the city of Toronto during the first six months of 2022.](https://github.com/GurmeetsK/TTC-Bus-Delay-Analysis)
-* 3. [An Analysis on the emissions of vehicles sold in Canada in 2022](https://github.com/GurmeetsK/CO2-Emissions-2022-Cars-in-Canada)
+* [An Analysis on Faculty Salaries at the University of Vermont.](https://github.com/GurmeetsK/University-of-Vermont-Salary-Analysis)
+* [An Analysis on Bus Delay in the city of Toronto during the first six months of 2022.](https://github.com/GurmeetsK/TTC-Bus-Delay-Analysis)
+* [An Analysis on the emissions of vehicles sold in Canada in 2022](https://github.com/GurmeetsK/CO2-Emissions-2022-Cars-in-Canada)
 
 ## What's next?
 
-* **1.The exploration of the fascinating language that is Python. The artist for my first project? The Beatles.**
+*  The exploration of the fascinating language that is Python. The artist for my first project? The Beatles.**
 
-* **2. I'll be starting a blog that combines the world of Data Analysis and Art.**
+*  I'll be starting a blog that combines the world of Data Analysis and Art.**
 
 ## What more?
 
