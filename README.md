@@ -6,7 +6,7 @@ I am Gurmeet Kapoor! I am a writer :books: who's bitten the data analysis bug. :
 You're going to find tons of interesting projects to see on my portfolio and, if you are new to the wonderful world of data,
 You're going to learn with me too!
 
-##Currently, the projects you can see on my Github are (***All Using SQL***):
+## Currently, the projects you can see on my Github are (***All Using SQL***):
 
 **1. [An Analysis on Faculty Salaries at the University of Vermont.](https://github.com/GurmeetsK/University-of-Vermont-Salary-Analysis)
 **2. [An Analysis on Bus Delay in the city of Toronto during the first six months of 2022.](https://github.com/GurmeetsK/TTC-Bus-Delay-Analysis)
