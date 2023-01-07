@@ -1,4 +1,10 @@
-### Hi there 👋
+
+### DataPoints create a story like pixels create a picture.
+
+I am Gurmeet Kapoor! I am a writer :books: who's bitten the data analysis bug. :computer: :chart_with_upwards_trend:
+
+You're going to find tons of interesting projects to see on my portfolio and, if you are new to the wonderful world of data,
+You're going to learn with me too!
 
 <!--
 **GurmeetsK/GurmeetsK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
