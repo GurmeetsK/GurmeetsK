@@ -28,6 +28,9 @@ you're going to learn with me too!
 
 This list, like the one above, will also be constantly updated ⏩
 
+I also have an enormous amount of experience in the business world, heading departments for burgeoning start-ups such as Accounting, Sales, Content
+and Human Resources.
+
 <!--
 **GurmeetsK/GurmeetsK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
