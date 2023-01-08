@@ -21,9 +21,10 @@ you're going to learn with me too!
 ## What more?
 
  I've 
-* Edited a published screenplay
-* Written a few blog posts
-* And made some movies. 
+* [Edited a published screenplay](https://www.amazon.com/Black-Rose-Deception-Art-War/dp/9354548822)
+* [Written a few blog posts](https://blog.elfdubai.org/blogs/tag/gurmeet-kapoor/)
+* [Copywritten(among other things) for a next-gen creative startup](https://www.kri8labs.com/)
+* [And made some movies.](https://drive.google.com/file/d/0B6nX9mbum5piVG5KTnhjX0lTM0E/view?resourcekey=0-rHKZexXJfPXLSMSuDN4_Lw)
 
 This list, like the one above, will also be constantly updated ⏩
 
