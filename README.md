@@ -1,4 +1,4 @@
-
+![](https://github.com/GurmeetsK/GurmeetsK/blob/48da305776fb2ccd881b82a9cd23d7e86834dc47/github-header-image.png)
 ### DataPoints create a story like pixels create a picture. :thought_balloon:
 
 I am Gurmeet Kapoor, a writer :books: who's bitten the data analysis bug. :computer: :chart_with_upwards_trend:
