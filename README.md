@@ -21,7 +21,7 @@ you're going to learn with me too!
 
 *  I'll be starting a blog that combines the world of Data Analysis and Art. The gist of the blog? Hint below.
 
-<img src="https://user-images.githubusercontent.com/110473898/211402443-60d33b99-3d7d-4660-8ee8-d4570a302cbc.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/110473898/211402443-60d33b99-3d7d-4660-8ee8-d4570a302cbc.png" width="400" height="400" />
 
 
 ## What more?
