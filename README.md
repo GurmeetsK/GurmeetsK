@@ -19,7 +19,10 @@ you're going to learn with me too!
 ![adios-despedida](https://user-images.githubusercontent.com/110473898/211392739-60e87168-1231-49d3-8129-6b9ea54aa412.gif)
 
 
-*  I'll be starting a blog that combines the world of Data Analysis and Art.
+*  I'll be starting a blog that combines the world of Data Analysis and Art. The gist of the blog? Hint hint.
+
+![find-the-difference](https://user-images.githubusercontent.com/110473898/211393273-92b7b145-d985-4a32-94ae-2c107e197962.png)
+
 
 ## What more?
 
