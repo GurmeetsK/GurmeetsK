@@ -21,6 +21,9 @@ you're going to learn with me too!
 
 *  I'll be starting a blog that combines the world of Data Analysis and Art. The gist of the blog? Hint below.
 
+![find-the-difference](https://user-images.githubusercontent.com/110473898/211393817-f5e77a15-5a71-4bf8-ab6a-a67f0029a8af.png = 250x250)
+
+
 
 ## What more?
 
