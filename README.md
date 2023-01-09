@@ -1,7 +1,7 @@
 ![](https://github.com/GurmeetsK/GurmeetsK/blob/48da305776fb2ccd881b82a9cd23d7e86834dc47/github-header-image.png)
 ### DataPoints create a story like pixels create a picture. :thought_balloon:
 
-I am Gurmeet Kapoor, a writer :books: who's bitten the data analysis bug. :computer: :chart_with_upwards_trend:
+I am Gurmeet Kapoor, a writer :books: who's bitten the data analysis bug. :computer: 
 
 You're going to find tons of interesting projects to see on my portfolio and if you are new to the wonderful world of data,
 you're going to learn with me too!
@@ -30,6 +30,8 @@ This list, like the one above, will also be constantly updated ⏩
 
 I also have an enormous amount of experience in the business world, heading departments such as Accounting, Sales, Content
 and Human Resources for next-gen startups.
+
+## Anything else?
 
 <!--
 **GurmeetsK/GurmeetsK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
