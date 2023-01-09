@@ -16,6 +16,9 @@ you're going to learn with me too!
 
 *  The exploration of the fascinating language that is Python. The artist for my first project? The Beatles.
 
+![adios-despedida](https://user-images.githubusercontent.com/110473898/211392739-60e87168-1231-49d3-8129-6b9ea54aa412.gif)
+
+
 *  I'll be starting a blog that combines the world of Data Analysis and Art.
 
 ## What more?
