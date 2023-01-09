@@ -33,6 +33,8 @@ and Human Resources for next-gen startups.
 
 ## Anything else?
 
+Yes! You can find my [Linkedin](https://www.linkedin.com/in/gurmeetkapoor/) and my Tableau 
+
 <!--
 **GurmeetsK/GurmeetsK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
