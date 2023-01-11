@@ -18,10 +18,13 @@ you're going to learn with me too!
 
 ![adios-despedida](https://user-images.githubusercontent.com/110473898/211392739-60e87168-1231-49d3-8129-6b9ea54aa412.gif)
 
+* I'll be comparing Manchester United Football Club through the seasons, analyzing their downfall, stop-start rise and maybe how recent statistics
+might be cause for good news for fans of the club.
 
 *  I'll be starting a blog that combines the world of Data Analysis and Art. The gist of the blog? Hint ⬇️
 
 <img src="https://user-images.githubusercontent.com/110473898/211402443-60d33b99-3d7d-4660-8ee8-d4570a302cbc.png" width="250" height="250" />
+
 
 
 ## What more?
