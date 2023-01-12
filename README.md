@@ -43,9 +43,6 @@ and Human Resources for next-gen startups.
 ## Anything else?
 
 Yes! You can contact me on my [Linkedin](https://www.linkedin.com/in/gurmeetkapoor/) and you can view my visualizations on [Tableau!](https://public.tableau.com/app/profile/gurmeet.kapoor)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurmeetsK&theme=radical)
-
 <!--
 **GurmeetsK/GurmeetsK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
