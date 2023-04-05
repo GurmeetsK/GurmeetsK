@@ -14,7 +14,7 @@ you're going to learn with me too!
 
 ## What's next?
 
-*  The exploration of the fascinating language that is Python. The artist for my first project? The Beatles. (Fun fact: The name Python is based on the comedy group, _Monty Python._ One of the biggest supporters of the group? George Harrison of *The Beatles*.
+*  The exploration of the fascinating coding language that is Python. The artist for my first project? The Beatles. (Fun fact: The name Python is based on the comedy group, **Monty Python.** One of the biggest supporters of the group? George Harrison of **The Beatles**.
 
 ![adios-despedida](https://user-images.githubusercontent.com/110473898/211392739-60e87168-1231-49d3-8129-6b9ea54aa412.gif)
 
